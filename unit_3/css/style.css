@@ -12,6 +12,7 @@ p {
 }
 ul {
 	text-align: center;
+	list-style-type: none;
 	color: coral;
 	font-style: italic;
 }
