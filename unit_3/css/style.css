@@ -1,0 +1,27 @@
+body{
+	text-align: center;
+	background: pink;
+	font-family: helvetica;
+}
+h1 {
+	color: Coral;
+}
+p {
+	color: DarkGrey;
+
+}
+ul {
+	text-align: center;
+	color: coral;
+	font-style: italic;
+}
+li {
+	text-align: center;
+}
+hr {
+	width: 500px;
+	border-color: blue;
+}
+p1 {
+	color: blue;
+}
