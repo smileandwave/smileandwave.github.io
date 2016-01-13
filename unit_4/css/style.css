@@ -26,6 +26,7 @@ ul {
 }
 li {
 	text-align: center;
+	display: list-item;
 }
 hr {
 	width: 500px;
