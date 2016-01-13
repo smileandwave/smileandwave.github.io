@@ -1,0 +1,129 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,100);
+body{
+	text-align: center;
+	background: pink;
+}
+#wrapper {
+	background-color: black;
+	width: 500px;
+	margin: 0 auto;
+}
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	text-align: left;
+	padding: 0 0 0 40px;
+
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+}
+
+a {
+	background-color: DarkGrey;
+	text-decoration: none;
+	display: block;
+	padding: 20px;
+	width: 311.2px;
+	float: none;
+}
+
+a:hover {
+	background-color: #E8C66A;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	text-align: center;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	text-align: right;
+}
+
+footer {
+	background-color: #FF957E
+	border: 1px black solid;
+	padding: 2em 0 2em 0;
+}
+
+div {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+}
+
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 62%;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 30%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
+h1 {
+	color: Coral;
+	font-family: 'Roboto', cursive;
+	font-size: 60px
+
+}
+p {
+	color: DarkCyan;
+	font-family: 'Lato', cursive;
+	font-size: 20px
+
+}
+ul {
+	text-align: center;
+	list-style-type: disc;
+	color: coral;
+	font-style: italic;
+	font-size: 20px
+
+}
+li {
+	text-align: center;
+	display: inline;
+}
+hr {
+	width: 500px;
+	border-color: blue;
+}
+p1 {
+	color: blue;
+	font-family: 'Lato', cursive;
+}
